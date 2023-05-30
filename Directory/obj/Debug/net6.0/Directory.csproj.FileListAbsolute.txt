@@ -1,0 +1,15 @@
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\Directory.csproj.AssemblyReference.cache
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\Directory.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\Directory.AssemblyInfoInputs.cache
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\Directory.AssemblyInfo.cs
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\Directory.csproj.CoreCompileInputs.cache
+E:\SEM2\C#\Buoi9\Exe1\Directory\bin\Debug\net6.0\Directory.exe
+E:\SEM2\C#\Buoi9\Exe1\Directory\bin\Debug\net6.0\Directory.deps.json
+E:\SEM2\C#\Buoi9\Exe1\Directory\bin\Debug\net6.0\Directory.runtimeconfig.json
+E:\SEM2\C#\Buoi9\Exe1\Directory\bin\Debug\net6.0\Directory.dll
+E:\SEM2\C#\Buoi9\Exe1\Directory\bin\Debug\net6.0\Directory.pdb
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\Directory.dll
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\refint\Directory.dll
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\Directory.pdb
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\Directory.genruntimeconfig.cache
+E:\SEM2\C#\Buoi9\Exe1\Directory\obj\Debug\net6.0\ref\Directory.dll
